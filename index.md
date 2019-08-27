@@ -1,3 +1,11 @@
+
+# Brennan Doyle's First CS193 Homework
+
+- We'll do stuff with terminal
+- We'll do stuff with Vim
+- The class is taught by students and not by professors
+- We'll do stuff with GitHub
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
